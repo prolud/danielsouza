@@ -41,7 +41,7 @@ export function Contact() {
                     rel="noopener noreferrer"
                     className="text-sm uppercase tracking-[0.2em] text-muted transition-colors hover:text-foreground"
                   >
-                    {social.label} ↗
+                    {social.label}
                   </a>
                 </li>
               ))}
