@@ -10,7 +10,7 @@ export function Contact() {
               Sobre
             </p>
             <h2 className="mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">
-              {site.yearsOfExperience}+ anos dando vida a marcas
+              +{site.yearsOfExperience} anos dando vida a marcas
             </h2>
             <p className="mt-6 max-w-md text-base leading-relaxed text-muted">
               Cada projeto começa com uma boa ideia e termina com movimento que

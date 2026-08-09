@@ -13,6 +13,8 @@ function ProjectVideo({ project, index }: { project: Project; index: number }) {
         playsInline
         preload="metadata"
         aria-label={`Vídeo do projeto ${project.title}`}
+        data-vc-watched="true"
+        data-vc-page-audio-managed="true"
       >
         <source src={`${basePath}${project.src}`} type="video/mp4" />
       </video>

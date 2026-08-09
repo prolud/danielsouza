@@ -15,7 +15,7 @@ export type Social = {
 export const site = {
   name: "Daniel Souza",
   role: "Motion Graphic Designer",
-  yearsOfExperience: 5,
+  yearsOfExperience: 10,
   available: true,
   intro: [
     "Transformo ideias em movimento. Com mais de 5 anos de experiência, crio identidades animadas, peças de motion design e narrativas que dão vida a marcas.",
