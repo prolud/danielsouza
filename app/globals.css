@@ -40,6 +40,17 @@ body {
   color: var(--background);
 }
 
+main,
+footer {
+  transition: opacity 600ms ease;
+  transition-delay: 500ms;
+}
+
+body.intro-playing main,
+body.intro-playing footer {
+  opacity: 0;
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
