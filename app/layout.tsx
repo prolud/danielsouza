@@ -29,6 +29,14 @@ export const metadata: Metadata = {
       "Portfólio de motion graphic design: identidades animadas, direção de arte e narrativas que dão vida a marcas.",
     locale: "pt_BR",
     type: "website",
+    images: [
+      {
+        url: "/photos/me.png",
+        width: 1200,
+        height: 630,
+        alt: "Daniel Souza",
+      },
+    ],
   },
 };
 
