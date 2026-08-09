@@ -43,7 +43,7 @@ body {
 main,
 footer {
   transition: opacity 600ms ease;
-  transition-delay: 500ms;
+  transition-delay: 150ms;
 }
 
 body.intro-playing main,

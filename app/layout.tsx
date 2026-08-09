@@ -81,7 +81,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           media="(hover: hover) and (pointer: fine)"
           href={`${basePath}/videos/initial-video.mp4`}
         />
-        <IntroVideo />
+        {/*<IntroVideo />*/}
         {children}
       </body>
     </html>
