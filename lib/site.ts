@@ -15,10 +15,10 @@ export type Social = {
 export const site = {
   name: "Daniel Souza",
   role: "Motion Graphic Designer",
-  yearsOfExperience: 10,
+  yearsOfExperience: 30,
   available: true,
   intro: [
-    "Transformo ideias em movimento. Com mais de 5 anos de experiência, crio identidades animadas, peças de motion design e narrativas que dão vida a marcas.",
+    "Transformo ideias em movimento. Com mais de 30 anos de experiência, crio identidades animadas, peças de motion design e narrativas que dão vida a marcas.",
     "Atuo da direção de arte à finalização, combinando design, animação e storytelling para entregar projetos que comunicam com impacto em qualquer formato.",
   ],
   marquee: [
@@ -26,10 +26,8 @@ export const site = {
     "Direção de Arte",
     "Animação 2D",
     "Identidade Visual",
-    "Storytelling",
-    "Criação de Conteúdo",
     "Edição",
-    "Design de Som",
+    "Sound Design",
   ],
   projects: [
     {
@@ -56,8 +54,8 @@ export const site = {
   ],
   email: "7danielsouza@gmail.com",
   socials: [
-    { label: "Instagram", href: "https://instagram.com/" },
-    { label: "Behance", href: "https://behance.net/" },
-    { label: "LinkedIn", href: "https://linkedin.com/" },
+    { label: "Instagram", href: "https://instagram.com/7danielsouza" },
+    { label: "WhatsApp", href: "https://wa.me/5541988684606" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/daniel-film" },
   ],
 };
